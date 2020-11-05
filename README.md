@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/predicting_psychotherapy_success_with_ml/master?filepath=step4_improving_ml_with_gridsearch.ipynb)
+
 # Predicting Psychotherapy Success (or Failure) with Machine Learning
 This repository consists on a series of four Jupyter Notebooks (each one involving a specific Step) to create a Machine Learning model to predict whether a patient will finish or abandon a psychotherapeutic process, based on some personality attributes. 
 
